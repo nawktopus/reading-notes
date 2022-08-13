@@ -7,7 +7,7 @@ _Description: Reading Notes File to accommodate my 201 reading notes._
 
 ## Table of Contents
 
-### [Day 1](https://github.com/nawktopus/reading-notes/blob/main/class-01.md) 
+### [Day 1](https://nawktopus.github.io/reading-notes/class-01)
 
 ### Day 2 
 
