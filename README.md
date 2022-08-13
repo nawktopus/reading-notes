@@ -1,6 +1,6 @@
 _Description: Reading Notes File to accommodate my 201 reading notes._
 
-![]()
+![My Dog](https://github.com/nawktopus/reading-notes/blob/main/22D82B94-B7C1-4D8B-BD25-0E076B17EB50.jpg)
 
 
 # `Code 201` Reading Notes
