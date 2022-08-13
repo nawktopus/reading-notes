@@ -1,7 +1,9 @@
-Description: Reading Notes File to accommodate my 201 reading notes. 
+_Description: Reading Notes File to accommodate my 201 reading notes._
+
+![]()
 
 
-# Code 201 Reading Notes
+# `Code 201` Reading Notes
 
 ## Table of Contents
 
