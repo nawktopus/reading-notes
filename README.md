@@ -1,6 +1,6 @@
 _Description: Reading Notes File to accommodate my 201 reading notes._
 
-![My Dog](doc/assets/Screenshot 2022-07-07 213735.png)
+![My Dog](/reading-notes/assets/Screenshot 2022-07-07 213735.png)
 
 
 # `Code 201` Reading Notes
