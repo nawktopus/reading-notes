@@ -31,6 +31,6 @@ JavaScript
 2. You must use <script>'s and place them in the `<head>` or `<body>` elements.
 
 ## Things I want to know more about
-  The meaning of a semantic value and why that gives `<h1>` more purpose than <span>. A better understanding of semantics and its importance. Better understanding of things that JavaScript requires in the browser.
+  The meaning of a semantic value and why that gives `<h1>` more purpose than `<span>`. A better understanding of semantics and its importance. Better understanding of things that JavaScript requires in the browser.
   
   
