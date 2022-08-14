@@ -1,7 +1,7 @@
 _Description: Reading Notes File to accommodate my 201 reading notes._
 
-![My Dog](doc/assets/Yuda.png)
-
+![[My Dog](doc/assets/Yuda.png)](https://thumbs.gfycat.com/BabyishSeveralBichonfrise-size_restricted.gif)
+Click me! 
 
 # `Code 201` __Reading Notes__
 
