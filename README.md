@@ -35,4 +35,4 @@ _Description: Reading Notes File to accommodate my 201 reading notes._
 
 ### Day 15
 
-#bcde7
+![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
