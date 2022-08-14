@@ -27,10 +27,10 @@ Semantics
 2. Some benefits of using semantic tags are that it will optimize search engine use for better rankings, help visually impaired users navigate a page, as well as give the code a clean look when reading through it.
 
 JavaScript  
-1. Browser and Third party API's. DOM (Document Object Model) API and HTMLMediaElement are examples that give dynamism to your homepage and require javascript.
+1. Browser and Third party API's. DOM (Document Object Model) API and HTMLMediaElement are examples that give dynamism to your homepage and require JavaScript.
 2. You must use <script>'s and place them in the `<head>` or `<body>` elements.
 
 ## Things I want to know more about
-  The meaning of a semantic value and why that gives `<h1>` more purpose than <span>. A better understanding of semantics and its importance. Better understanding of things that javascript requires in the browser.
+  The meaning of a semantic value and why that gives `<h1>` more purpose than <span>. A better understanding of semantics and its importance. Better understanding of things that JavaScript requires in the browser.
   
   
