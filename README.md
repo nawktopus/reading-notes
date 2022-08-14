@@ -5,7 +5,7 @@ _Description: Reading Notes File to accommodate my 201 reading notes._
 
 # `Code 201` Reading Notes
 
-## Table of Contents
+## **Table of Contents**
 
 ### [Day 1](https://nawktopus.github.io/reading-notes/class-01)
 
