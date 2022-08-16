@@ -24,13 +24,13 @@ Learn CSS
   
 3. Review the block of code below and answer the following questions:
   
-  1. What is representing the selector?
+  - What is representing the selector?
     The selector is h2.
   
-  2. Which components are the CSS declarations?
+  - Which components are the CSS declarations?
     The declaration components is `color: black;` `padding: 5px;`.
 
-  3. Which components are considered properties?
+ - Which components are considered properties?
     The two properties are `color` and `padding`. 
   
 Learn JS
