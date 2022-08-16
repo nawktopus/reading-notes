@@ -30,7 +30,7 @@ Learn CSS
   - Which components are the CSS declarations?
     The declaration components is `color: black;` `padding: 5px;`.
 
- - Which components are considered properties?
+  - Which components are considered properties?
     The two properties are `color` and `padding`. 
   
 Learn JS
