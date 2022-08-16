@@ -9,7 +9,7 @@ Click me!
 
 ### [Day 1](https://nawktopus.github.io/reading-notes/class-01)
 
-### Day 2 
+### [Day 2](class-02.md) 
 
 ### Day 4
 
