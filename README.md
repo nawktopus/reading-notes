@@ -7,9 +7,11 @@ Click me!
 
 ## Table of Contents
 
-### [Day 1](https://nawktopus.github.io/reading-notes/class-01)
+### [Day 1](class-01.md)
 
 ### [Day 2](class-02.md) 
+
+### [Day 3](class-03.md)
 
 ### Day 4
 
