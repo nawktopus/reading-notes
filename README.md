@@ -13,7 +13,7 @@ Click me!
 
 ### [Day 3](class-03.md)
 
-### Day 4
+### [Day 4](class-04.md)
 
 ### Day 5
 
