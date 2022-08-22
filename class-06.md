@@ -18,7 +18,7 @@
   age: 2,
   color: 'white with black spots',
   humanAge: function (){
-    console.log(`${this.name} is ${this.age*7} in human years`);
+    console.log('${this.name} is ${this.age*7} in human years');
   }
 }`
 
