@@ -19,7 +19,7 @@ Click me!
 
 ### [Day 6](class-06.md)
 
-### [Day 7](class-07.md)
+### [Day 7](https://github.com/nawktopus/reading-notes/blob/07d4454d28620c764a8717f166bfa9bc1d135e69/class-07.md)
 
 ### Day 8
 
