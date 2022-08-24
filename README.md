@@ -21,7 +21,7 @@ Click me!
 
 ### [Day 7](class-07.md)
 
-### Day 8
+### [Day 8](class-08.md)
 
 ### Day 9
 
