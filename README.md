@@ -27,9 +27,9 @@ Click me!
 
 ### [Day 10](class-10.md)
 
-### Day 11
+### [Day 11](class-11.md)
 
-### Day 12
+### [Day 12](class-12.md)
 
 ### Day 13
 
