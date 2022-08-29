@@ -33,6 +33,8 @@ Click me!
 
 ### [Day 13](class-13.md)
 
-### Day 14
+### [Day 14a](class-14a.md)
+
+### [Day 14b](class-14b.md)
 
 ### Day 15
