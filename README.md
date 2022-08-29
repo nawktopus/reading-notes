@@ -31,7 +31,7 @@ Click me!
 
 ### [Day 12](class-12.md)
 
-### Day 13
+### [Day 13](class-13.md)
 
 ### Day 14
 
