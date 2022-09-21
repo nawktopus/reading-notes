@@ -7,7 +7,7 @@ Click me!
 
 ## Table of Contents
 
-### Day 1
+### [Day 1](class.01.md)
 
 ### Day 2
 
