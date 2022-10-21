@@ -2,7 +2,7 @@
 
 ## Thinking in React
 
-1. What is the single responsibility principle and how does it apply to components?
+1. What is the `single responsibility principle` and how does it apply to components?
     A component should ideally only do one thing. 
 2. What does it mean to build a ‘static’ version of your application?
     To build a website that has no state. No interactivity. 
@@ -17,9 +17,10 @@
 1. What is a “higher-order function”?
   Functions that operate on other functions by either taking them as arguments or returning them. 
 2. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
-  if m is greater than n, we return m. 
+  If m is greater than n, we return m. 
 3. Explain how either map or reduce operates, with regards to higher-order functions.
-  Reduce
+  Map applies a function to all of the elements and builds a new array with those returned values. Reduce builds a value by repeatedly taking a single element from the array and combines it with the current value.
+  
 ## Things I want to know more about 
 
 ## Resources 
