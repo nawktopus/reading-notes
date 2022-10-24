@@ -17,7 +17,7 @@ Click me!
 
 ### [Day 5](class.05.md)
 
-### Day 6
+### [Day 6](class.06.md)
 
 ### Day 7
 
