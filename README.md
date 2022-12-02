@@ -1,7 +1,13 @@
-# _Description_: Reading Notes File to accommodate my **Code 201 + 301** notes
+# _Description_: Reading Notes File to accommodate my **Code 201 + 301 + 401** notes
 
 [![My Dog](doc/assets/Yuda.png)](https://thumbs.gfycat.com/BabyishSeveralBichonfrise-size_restricted.gif)
 Click me!
+
+## `Code 401 - Advanced Software Development` Reading Notes
+
+## Table of Contents
+
+### [Day 1](class01.md)
 
 ## `Code 301 - Intermediate Software Development` Reading Notes
 
@@ -39,7 +45,7 @@ Click me!
 
 ## `Code 201 - Foundations of Software Development` Reading Notes
 
-## Table of Content
+## Table of Contents
 
 ### [Day 1](class-01.md)
 
