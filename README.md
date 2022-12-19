@@ -9,6 +9,8 @@ Click me!
 
 ### [SQL](SQLPractice.md)
 
+### [Growth](the-growth.md)
+
 ### [Reading 1](read1.md)
 
 ## `Code 301 - Intermediate Software Development` Reading Notes
