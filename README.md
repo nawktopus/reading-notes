@@ -13,7 +13,7 @@ Click me!
 
 ### [The Command Line](the-command-line.md)
 
-### [Reading 1](read1.md)
+### [Reading 1](class01.md)
 
 ## `Code 301 - Intermediate Software Development` Reading Notes
 
