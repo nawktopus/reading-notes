@@ -7,7 +7,7 @@ Click me!
 
 ## Table of Contents
 
-### [Day 1](class01.md)
+### [Day 1](SQL Practice.md)
 
 ## `Code 301 - Intermediate Software Development` Reading Notes
 
