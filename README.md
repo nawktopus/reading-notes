@@ -11,6 +11,8 @@ Click me!
 
 ### [Growth](the-growth.md)
 
+### [The Command Line](the-command-line.md)
+
 ### [Reading 1](read1.md)
 
 ## `Code 301 - Intermediate Software Development` Reading Notes
