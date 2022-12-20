@@ -7,13 +7,13 @@ Click me!
 
 ## Table of Contents
 
-### [SQL](SQLPractice.md)
+### [SQL](/401/SQLPractice.md)
 
-### [Growth](the-growth.md)
+### [Growth](/401/the-growth.md)
 
-### [The Command Line](the-command-line.md)
+### [The Command Line](/401/the-command-line.md)
 
-### [Reading 1](class01.md)
+### [Reading 1](/401/class01.md)
 
 ## `Code 301 - Intermediate Software Development` Reading Notes
 
