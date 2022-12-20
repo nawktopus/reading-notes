@@ -15,6 +15,10 @@ Click me!
 
 ### [Reading 1](/401/class01.md)
 
+### [DSA](Data-Structures-and-Algorithms.md)
+
+### [Engineering Readings](Engineering-readings.md)
+
 ## `Code 301 - Intermediate Software Development` Reading Notes
 
 ## Table of Contents
