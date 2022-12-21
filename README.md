@@ -19,6 +19,10 @@ Click me!
 
 ### [Engineering Readings](/401/Engineering-readings.md)
 
+### [Class 01](/401/class01.md)
+
+### [Class 02](/401/class02.md)
+
 ## `Code 301 - Intermediate Software Development` Reading Notes
 
 ## Table of Contents
