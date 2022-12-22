@@ -23,6 +23,10 @@ Click me!
 
 ### [Class 02](/401/class02.md)
 
+### [Class 03](/401/class03.md)
+
+### [Class 04](/401/class04.md)
+
 ## `Code 301 - Intermediate Software Development` Reading Notes
 
 ## Table of Contents
