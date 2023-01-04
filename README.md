@@ -29,6 +29,10 @@ Click me!
 
 ### [Class 06](/401/class06.md)
 
+### [Class 07](/401/class07.md)
+
+### [Class 08](/401/class08.md)
+
 ### [Stacks and Queues](/401/stacks-and-queues.md)
 
 ## `Code 301 - Intermediate Software Development` Reading Notes
